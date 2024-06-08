@@ -1,0 +1,15 @@
+The Reference List:
+
+BillWagner (2023) Arrays Available at:https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/arrays (Accessed: 13 March 2024)
+
+Roman Fairushyn (2023)Access Modifiers In C# Available at:https://medium.com/@fairushyn/access-modifiers-in-c-27237e3c30a2#:~:text=Access%20modifiers%20in%20C%23%20are%20used%20to%20specify%20the%20scope,accessible%20to%20the%20assembly%20only. (Accessed: 15 March 2024)
+
+Ankita Saini (2020) Switch Statement in C# Available at:https:https://www.geeksforgeeks.org/switch-statement-in-c-sharp/ (Accessed: 13 March 2024)
+
+BillWagner (2023) Exception-handling statements - throw, try-catch, try-finally, and try-catch-finally  Available at:https:https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/exception-handling-statements (Accessed: 20 March 2024)
+
+TutorialsTeacher (2023) C# - while Loop  Available at:https:https:https://www.tutorialsteacher.com/csharp/csharp-while-loop (Accessed: 20 March 2024)
+
+Kirti Mangal (2023) C# | How to change Foreground Color of Text in Console  Available at:https:https://www.geeksforgeeks.org/c-sharp-how-to-change-foreground-color-of-text-in-console/#:~:text=Given%20the%20normal%20Console%20in,Console%20Foreground%20Color%20to%20Blue. (Accessed: 20 March 2024)
+
+
